@@ -1,0 +1,1 @@
+un fichier avec du contenu (sous forme de texte avec ce que vous voulez dedans, par exemple recopiez le contenu d'une news)
